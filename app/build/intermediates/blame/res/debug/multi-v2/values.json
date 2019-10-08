@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Samuli\\AndroidStudioProjects\\AndroidXMLParsing1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Samuli\\AndroidStudioProjects\\AndroidXMLParsing1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "129,55",
+                        "endColumns": "54,73",
+                        "endOffsets": "179,124"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,110",
+                        "endColumns": "54,73",
+                        "endOffsets": "105,179"
+                    }
+                }
+            ]
+        }
+    ]
+}

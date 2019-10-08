@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Samuli\\AndroidStudioProjects\\AndroidXMLParsing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_item.png.flat",
+        "source": "C:\\Users\\Samuli\\AndroidStudioProjects\\AndroidXMLParsing1\\app\\src\\main\\res\\drawable-ldpi\\item.png"
+    },
+    {
+        "merged": "C:\\Users\\Samuli\\AndroidStudioProjects\\AndroidXMLParsing1\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "C:\\Users\\Samuli\\AndroidStudioProjects\\AndroidXMLParsing1\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samuli\\AndroidStudioProjects\\AndroidXMLParsing1\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\Samuli\\AndroidStudioProjects\\AndroidXMLParsing1\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Samuli\\AndroidStudioProjects\\AndroidXMLParsing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\Samuli\\AndroidStudioProjects\\AndroidXMLParsing1\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Samuli\\AndroidStudioProjects\\AndroidXMLParsing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_item.png.flat",
+        "source": "C:\\Users\\Samuli\\AndroidStudioProjects\\AndroidXMLParsing1\\app\\src\\main\\res\\drawable-hdpi\\item.png"
+    },
+    {
+        "merged": "C:\\Users\\Samuli\\AndroidStudioProjects\\AndroidXMLParsing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "C:\\Users\\Samuli\\AndroidStudioProjects\\AndroidXMLParsing1\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Samuli\\AndroidStudioProjects\\AndroidXMLParsing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "C:\\Users\\Samuli\\AndroidStudioProjects\\AndroidXMLParsing1\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Samuli\\AndroidStudioProjects\\AndroidXMLParsing1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_item.png.flat",
+        "source": "C:\\Users\\Samuli\\AndroidStudioProjects\\AndroidXMLParsing1\\app\\src\\main\\res\\drawable-mdpi\\item.png"
+    },
+    {
+        "merged": "C:\\Users\\Samuli\\AndroidStudioProjects\\AndroidXMLParsing1\\app\\build\\intermediates\\res\\merged\\debug\\layout_single_list_item.xml.flat",
+        "source": "C:\\Users\\Samuli\\AndroidStudioProjects\\AndroidXMLParsing1\\app\\src\\main\\res\\layout\\single_list_item.xml"
+    }
+]

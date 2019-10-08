@@ -1,0 +1,4 @@
+#Wed May 29 11:22:03 EEST 2019
+base.0=/Users/phe/temp/temp5/AndroidXMLParsing1/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex

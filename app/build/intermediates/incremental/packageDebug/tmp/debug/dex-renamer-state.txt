@@ -1,0 +1,4 @@
+#Tue Oct 08 22:51:56 EEST 2019
+base.0=C\:\\Users\\Samuli\\AndroidStudioProjects\\AndroidXMLParsing1\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
